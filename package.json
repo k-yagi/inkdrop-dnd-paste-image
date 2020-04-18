@@ -5,7 +5,7 @@
   "description": "You can paste images by dragging and dropping from browser",
   "keywords": [
   ],
-  "repository": "https://github.com/inkdropapp/dnd-paste-image",
+  "repository": "https://github.com/inkdropapp/inkdrop-dnd-paste-image",
   "license": "MIT",
   "engines": {
     "inkdrop": "^4.x"
