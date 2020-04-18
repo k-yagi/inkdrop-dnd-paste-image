@@ -1,0 +1,15 @@
+{
+  "name": "dnd-paste-image",
+  "main": "./lib/index.js",
+  "version": "0.1.0",
+  "description": "You can paste images by dragging and dropping from browser",
+  "keywords": [
+  ],
+  "repository": "https://github.com/inkdropapp/dnd-paste-image",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+  }
+}
